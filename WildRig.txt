@@ -1,0 +1,3 @@
+version=0.31.3
+windowsLink=https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-windows-0.31.3.7z
+format=7zip
